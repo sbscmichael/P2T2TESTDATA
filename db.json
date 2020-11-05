@@ -3,12 +3,25 @@
     "CitationOrCaseNumber": "MMB18001280",
     "SessionDate": 20201028,
     "StartTime": 830,
-    "DepartmentCode": "M2"
+    "DepartmentCode": "M2",
+    "NameLast": "Ligon",
+    "NameFirst": "Timothy Jay",
+    "BusinessIndicator": "N",
+    "DateOfBirth": "1/31/1964",
+    "CaseType": "Adult",
+    "FloorCode": 1
   },
   {
     "CitationOrCaseNumber": "MWV18006687",
     "SessionDate": 20201028,
     "StartTime": 830,
-    "DepartmentCode": "R11"
-  }
+    "DepartmentCode": "R11",
+    "NameLast": "Correa",
+    "NameFirst": "Ashley Anoinette",
+    "BusinessIndicator": "N",
+    "DateOfBirth": "8/18/1994",
+    "CaseType": "Adult",
+    "FloorCode": 3
+  },
+
 ]
